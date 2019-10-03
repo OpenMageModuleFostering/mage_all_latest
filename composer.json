@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Mage_All_Latest",
+    "name": "openmage-module-fostering\/mage_all_latest",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Metapackage for latest Magento 1.9.0.0 release",
     "authors": [
