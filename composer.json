@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Mage_All_Latest",
+    "name": "OpenMageModuleFostering\/Mage_All_Latest",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "Metapackage for latest Magento 1.9.0.0 release",
     "authors": [
-    {
-        "name": "Magento Core Team",
-        "email": "core@magentocommerce.com"
-    }
-],
+        {
+            "name": "Magento Core Team",
+            "email": "core@magentocommerce.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
